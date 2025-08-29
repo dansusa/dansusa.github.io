@@ -1,4 +1,4 @@
-acs<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -23,7 +23,7 @@ acs<!DOCTYPE html>
   </main>
 
   <div class="controls">
-    <div class="control control-1 active-btn" data-id="header" >
+    <div class="control control-1 active-btn">
       <i class="fa-solid fa-house"></i>
     </div>
     <div class="control control-2" data-id="about">
